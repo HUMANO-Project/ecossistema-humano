@@ -7,8 +7,8 @@ Este repositório documenta e estrutura o núcleo tecnológico e filosófico do 
 - Rede de proteção informacional
 - Liberdade, transparência e dignidade digital
 
-🔗 Site oficial: [https://pandora-huma.com](https://pandora-huma.com)  
-🔗 MVP interativo: [Acesse nosso site oficial para entrar e iniciar o MVP)  
+🔗 Site oficial: [https://pandora-huma.com][https://pandora-huma.com]  
+🔗 MVP interativo: [Acesse nosso site oficial para entrar e iniciar o MVP]
 📧 Contato: brunosancrei@gmail.com
 ---
 
