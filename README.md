@@ -17,7 +17,7 @@ Este repositório documenta e estrutura o núcleo tecnológico e filosófico do 
 A **HUMANO** é uma iniciativa dedicada a criar um novo padrão digital: seguro, ético, regenerativo e civilizatório.
 
 Este repositório concentra o núcleo funcional e filosófico do projeto.  
-As **filiais (como SYNHUMAN, REGENERA, AETHERION etc.) serão integradas posteriormente** em repositórios ou seções dedicadas.
+Os **projetos de filiais serão integradas posteriormente** em repositórios ou seções dedicadas.
 
 ---
 
@@ -27,7 +27,6 @@ As **filiais (como SYNHUMAN, REGENERA, AETHERION etc.) serão integradas posteri
 |------------------|---------------------|
 | `MANIFESTO.md`   | Propósito ético e visão filosófica da HUMANO |
 | `ECOSSISTEMA/`   | Detalhes da IDR, Lumen OS e arquitetura técnica |
-| `MVP/`           | Explicação da versão demonstrativa interativa (cutscenes incluídas) |
 | `INVESTIMENTO/`  | Materiais de apresentação e estratégia para captação |
 | `ROADMAP.md`     | Caminho previsto de desenvolvimento em fases |
 | `FAQ.md`         | Dúvidas frequentes sobre o projeto |
@@ -38,7 +37,7 @@ As **filiais (como SYNHUMAN, REGENERA, AETHERION etc.) serão integradas posteri
 
 1. Leia o [Manifesto](./MANIFESTO.md)
 2. Explore a [IDR e Lumen OS](./ECOSSISTEMA/)
-3. Experimente o [MVP de demonstração](https://pandora-huma.com/HUMANO.MVP/)
+3. Experimente o [MVP de demonstração em nosso site oficial]
 4. Veja nosso [plano de desenvolvimento](./ROADMAP.md)
 5. Se for investidor, confira o [Deck de Investimento](./INVESTIMENTO/)
 
@@ -54,7 +53,7 @@ Isso garante integridade, segurança e alinhamento ético do ecossistema.
 ## 🤝 Contribuição
 
 O projeto está em fase de estruturação.  
-No momento, **não aceitamos contribuições de código externas**, mas sugestões, correções e parcerias estratégicas são bem-vindas via [issues](https://github.com/HUMANO-Project/ecossistema-humano/issues) ou e-mail.
+No momento, **não aceitamos contribuições de código externas**, mas sugestões, correções e parcerias estratégicas são bem-vindas preenchendo o formulario de resposta em nosso site de acordo com seu perfil.
 
 ---
 
