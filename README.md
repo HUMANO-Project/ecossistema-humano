@@ -25,7 +25,7 @@ Os **projetos de filiais serão integradas posteriormente** em repositórios ou 
 
 | Seção           | Conteúdo Principal |
 |------------------|---------------------|
-| `Manifesto.md`   | Propósito ético e visão filosófica da HUMANO |
+| `MANIFESTO.md`   | Propósito ético e visão filosófica da HUMANO |
 | `ECOSSISTEMA/`   | Detalhes da IDR, Lumen OS e arquitetura técnica |
 | `INVESTIMENTO/`  | Materiais de apresentação e estratégia para captação |
 | `ROADMAP.md`     | Caminho previsto de desenvolvimento em fases |
@@ -35,7 +35,7 @@ Os **projetos de filiais serão integradas posteriormente** em repositórios ou 
 
 ## 🚀 Para Começar
 
-1. Leia o [Manifesto](./Manifesto.md)
+1. Leia o [Manifesto](./MANIFESTO.md)
 2. Explore a [IDR e Lumen OS](./ECOSSISTEMA/)
 3. Experimente o [MVP de demonstração em nosso site oficial]
 4. Veja nosso [plano de desenvolvimento](./ROADMAP.md)
