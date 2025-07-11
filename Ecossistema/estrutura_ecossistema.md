@@ -97,7 +97,7 @@ A IA é nativa do ecossistema:
     ↓  
 - [Navegador e Interface Visual]  
     ↓  
-- [Apps / Sites / IA Miriel]  
+- [Apps / Sites / IA ]  
     ↓  
 - [Lumen OS]  
     ↓  
