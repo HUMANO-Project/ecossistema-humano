@@ -47,7 +47,7 @@ Cada usuário possui uma **IDR única e intransferível**. Ela oferece:
 
 ### 4. 🧠 IA Integrada com Defesa Interna
 
-A IA **Miriel** é nativa do ecossistema:
+A IA é nativa do ecossistema:
 
 - Atua como **guia, analista e defensora digital**  
 - Detecta tentativas de abuso, golpe ou violação de regras  
