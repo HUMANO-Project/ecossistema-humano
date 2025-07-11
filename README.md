@@ -8,7 +8,7 @@ Este repositório documenta e estrutura o núcleo tecnológico e filosófico do 
 - Liberdade, transparência e dignidade digital
 
 🔗 Site oficial: [https://pandora-huma.com](https://pandora-huma.com)  
-🔗 MVP interativo: [Acesse o Lumen OS MVP](https://pandora-huma.com/HUMANO.MVP/)  
+🔗 MVP interativo: [Acesse nosso site oficial para entrar e iniciar o MVP)  
 📧 Contato: brunosancrei@gmail.com
 ---
 
