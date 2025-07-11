@@ -93,17 +93,17 @@ A IA é nativa do ecossistema:
 
 ## 🗺️ Camadas Operacionais
 
-[Usuário com IDR]
-↓
-[Navegador e Interface Visual]
-↓
-[Aplicativos / Sites / IA Miriel]
-↓
-[Lumen OS]
-↓
-[Rede P2P com Nó Central]
-↓
-[Criptografia em Múltiplas Camadas]
+- [Usuário com IDR]  
+    ↓  
+- [Navegador e Interface Visual]  
+    ↓  
+- [Apps / Sites / IA Miriel]  
+    ↓  
+- [Lumen OS]  
+    ↓  
+- [Rede P2P com Nó Central]  
+    ↓  
+- [Criptografia em Múltiplas Camadas]
 
 ---
 
