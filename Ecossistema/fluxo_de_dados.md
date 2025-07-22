@@ -28,7 +28,7 @@ O fluxo segue 6 etapas principais:
 
 Vamos imaginar a usuária **Ana**, com sua IDR ativa e validada, acessando o ecossistema.
 
-
+```text
 [1] Ana liga seu dispositivo com Lumen OS
    ↓
 [2] Sua IDR é autenticada localmente (IDR pública)
