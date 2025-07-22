@@ -28,7 +28,7 @@ O fluxo segue 6 etapas principais:
 
 Vamos imaginar a usuária **Ana**, com sua IDR ativa e validada, acessando o ecossistema.
 
-```text
+
 [1] Ana liga seu dispositivo com Lumen OS
    ↓
 [2] Sua IDR é autenticada localmente (IDR pública)
@@ -39,7 +39,7 @@ Vamos imaginar a usuária **Ana**, com sua IDR ativa e validada, acessando o eco
    ↓
 [5] A IA Miriel verifica os riscos e a integridade da solicitação
    ↓
-[6] O sistema busca os dados criptografados (XBit) vinculados à IDR
+[6] O sistema busca os dados criptografados vinculados à IDR
    ↓
 [7] Os dados são descriptografados localmente com permissão de Ana
    ↓
