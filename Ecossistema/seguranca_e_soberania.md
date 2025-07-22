@@ -1,5 +1,5 @@
 # 🛡️ Segurança e Soberania Digital — HUMANO
-Documento Oficial | Versão 1.0  
+
 
 ## 🌐 Visão Geral
 A segurança no projeto HUMANO não é um módulo isolado — é o próprio alicerce do sistema.  
