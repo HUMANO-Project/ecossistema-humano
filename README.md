@@ -36,7 +36,7 @@ Os **projetos de filiais serão integradas posteriormente** em repositórios ou 
 ## 🚀 Para Começar
 
 1. Leia o [Manifesto](./MANIFESTO.md)
-2. Explore O [Ecossistema](./ecossistema/)
+2. Explore O [Ecossistema](./Ecossistema/)
 3. Experimente o [MVP de demonstração em nosso site oficial]
 4. Veja nosso [plano de desenvolvimento](./ROADMAP.md)
 5. Se for investidor, confira o [Deck de Investimento](./INVESTIMENTO/)
