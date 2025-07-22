@@ -74,7 +74,7 @@ O sistema HUMANO usa IAs internas especializadas em detectar, prever e bloquear 
 | Dados               | Criptografia total, sem vazamento ou rastreio externo |
 | Interações          | Protegidas por moderação leve de IA e tokens         |
 | Soberania Técnica   | Sem dependência de infraestrutura estrangeira        |
-| Reversibilidade     | Restaurável por      mesmo após falhas graves        |
+| Reversibilidade     | Restaurável          mesmo após falhas graves        |
 
 ---
 
