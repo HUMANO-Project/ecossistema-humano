@@ -20,8 +20,6 @@ Criar um meio **unificado, leve e seguro** para:
 
 Cada **XBIT** é formado por um conjunto padronizado de campos criptografados:
 
-[ORIGEM] :: [DESTINO] :: [CARGA ÚTIL] :: [CHAVE TEMPORAL] :: [ASSINATURA]
-
 
 ### Componentes:
 
