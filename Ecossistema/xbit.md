@@ -55,7 +55,7 @@ Cada **XBIT** é formado por um conjunto padronizado de campos criptografados:
 ## 🔒 Segurança e Vantagens
 
 - **Não reproduzível**: cada XBIT é único, criptografado por sessão.
-- **Impossível de falsificar**: baseado em IDPs únicas e validação cruzada.
+- **Impossível de falsificar**: baseado em IDRs únicas e validação cruzada.
 - **Auditável internamente**: pode ser rastreado sem quebrar o conteúdo.
 - **Desacoplado da lógica financeira**: serve para *ação* e *conexão*, não para comércio.
 - **Compatível com rede central e P2P**: opera nas duas camadas do ecossistema.
@@ -64,10 +64,9 @@ Cada **XBIT** é formado por um conjunto padronizado de campos criptografados:
 
 ## 📡 Aplicações
 
-- Comunicação entre IAs internas (ex: AEON, ATLAS, GAIA)
 - Transmissão segura entre servidores e terminais
 - Ações disparadas por usuários via apps do HUMANO
-- Confirmações de identidade (IDP → serviços)
+- Confirmações de identidade (IDR → serviços)
 - Notificações criptografadas (eventos, convites, comandos)
 
 ---
